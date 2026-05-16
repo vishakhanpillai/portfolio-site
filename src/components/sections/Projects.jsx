@@ -14,7 +14,7 @@ const PROJECTS = [
     ],
   },
   {
-    href: 'https://github.com/vishakhanpillai/Keylogger-Using-Pythonr',
+    href: 'https://github.com/vishakhanpillai/Keylogger-Using-Python',
     icon: 'fa-keyboard',
     color: 'emerald',
     title: 'Python Keylogger',
