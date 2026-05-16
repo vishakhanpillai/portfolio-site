@@ -123,6 +123,22 @@ export default function Sidebar() {
           <li>
             <a
               className="block text-slate-500 hover:text-slate-200 transition-all duration-300 hover:scale-110 hover:-translate-y-0.5"
+              href="https://x.com/vishakhanpillai"
+              target="_blank"
+              title="X.com"
+            >
+              <svg
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+                className="h-5 w-5 fill-current"
+              >
+                <path d="M18.9 2H22l-6.78 7.75L23.2 22H17.6l-5.56-7.24L5.7 22H2.6l7.3-8.35L.8 2h5.76l5.06 6.58L18.9 2Zm-1 18h1.7L6.7 3.9H4.88L17.9 20Z" />
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              className="block text-slate-500 hover:text-slate-200 transition-all duration-300 hover:scale-110 hover:-translate-y-0.5"
               href="https://tryhackme.com/p/vishakhanpillai"
               target="_blank"
               title="TryHackMe"
